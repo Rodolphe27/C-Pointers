@@ -11,5 +11,5 @@ Ensure you have a C++ compiler installed to run the program.
    git clone https://github.com/your-username/MediaManagement.git
    cd MediaManagement
    make
-./MediaManagement
+./main
 
